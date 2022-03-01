@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtharajroy&label=Profile%20views&color=0e75b6&style=flat" alt="tirtharajroy" /> </p>
 
-- 🌱 I’m currently learning **C SQL C++ Python PHP**
+- 🌱 I’m currently learning **C SQL C++ Python PHP**.
 
-- 🤝 I’m looking for help with **C C++**
+- 🤝 I’m looking for help with **C C++**.
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C**.
 
-- 📫 Reach me at **tirtharajroy6@gmail.com**
+- 📫 Reach me at- **tirtharajroy6@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tirtharajroy/](https://www.linkedin.com/in/tirtharajroy/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/tirtharajroy/](https://www.linkedin.com/in/tirtharajroy/)
 
-- ⚡ Fun fact **Ritam <--My bestfriend--> is Gay.**
+- ⚡ Fun fact: **Ritam <--My bestfriend--> is Gay.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
