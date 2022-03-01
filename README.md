@@ -22,8 +22,8 @@
 <a href="https://twitter.com/tirtharajroy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirtharajroy6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tirtharajroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirtharajroy" height="30" width="40" /></a>
 <a href="https://fb.com/tirtharajroy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tirtharajroy6" height="30" width="40" /></a>
-<a href="https://instagram.com/tirtharajroy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirtharajroy6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/let's code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's code" height="30" width="40" /></a>
+<a href="https://instagram.com/tirtharajroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirtharajroy6" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFX7dJHhPHfwnfOrEkfrC_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's code" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tirtharajroy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tirtharajroy6" height="30" width="40" /></a>
 </p>
 
