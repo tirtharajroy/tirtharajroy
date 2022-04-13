@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/tirtharajroy/](https://www.linkedin.com/in/tirtharajroy/)
 
-- ⚡ Fun fact: **Ritam <--My bestfriend--> is Gay.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
