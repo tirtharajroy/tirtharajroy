@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtharajroy&label=Profile%20views&color=0e75b6&style=flat" alt="tirtharajroy" /> </p>
 
-- 🌱 I’m currently learning **C SQL C++ Python PHP**.
+- 🌱 I’m currently learning **JavaScript C SQL Python**.
 
-- 🤝 I’m looking for help with **C C++**.
+- 🤝 I’m looking for help with **JavaScript C++**.
 
-- 💬 Ask me about **C**.
+- 💬 Ask me about **JavaScript C**.
 
 - 📫 Reach me at- **tirtharajroy6@gmail.com**
 
