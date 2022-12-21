@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtharajroy&label=Profile%20views&color=0e75b6&style=flat" alt="tirtharajroy" /> </p>
 
-- 🌱 I’m currently learning **Python JavaScript C++ SQL**.
+- 🌱 I’m currently learning **Python JavaScript SQL**.
 
-- 🤝 I’m looking for help with **JavaScript C++**.
+- 🤝 I’m looking for help with **Python Node**.
 
 - 💬 Ask me about **JavaScript C**.
 
