@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tirtharaj</h1>
-<h3 align="center">A programmer from India</h3>
+<h3 align="center">A programmer from WB, IN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtharajroy&label=Profile%20views&color=0e75b6&style=flat" alt="tirtharajroy" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Python**.
+- 🌱 I’m currently learning **JavaScript, Python**.
 
 - 🤝 I’m looking for help with **Python Node JS**.
 
